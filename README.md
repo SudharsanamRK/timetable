@@ -113,3 +113,6 @@ Execute the program
 
 # OUPUT
 ![time table](https://user-images.githubusercontent.com/115523484/234336208-7c6f6b34-8ad5-4f47-827e-b28c83b824f5.png)
+ 
+# RESULT
+The program for creating slot timetable is completed successfully
